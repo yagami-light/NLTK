@@ -1,0 +1,9 @@
+1. sudo apt-get -y install ipython ipython-notebook
+
+2.  sudo -H pip install jupyter
+
+3.  jupyter notebook  --ip=0.0.0.0 --port=8888 --no-browser
+
+4. open cloud ip :8888 
+ 
+enjoy
