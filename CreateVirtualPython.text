@@ -1,0 +1,5 @@
+1.sudo apt-get install python-virtualenv
+2.virtualenv --version
+3.virtualenv myenv
+4.cd venv/myenv/bin
+5.source activate
