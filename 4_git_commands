@@ -1,0 +1,9 @@
+1. git init
+2. git status
+3. git add .
+4. git commit -m "messaeg"
+5.  git config credential.helper store //torun so that each push doent ask for credential again
+
+6. git remote origin http://fdf.git
+7. git push remote origin
+
