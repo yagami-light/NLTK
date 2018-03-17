@@ -7,3 +7,28 @@
 4. open cloud ip :8888 
  
 enjoy
+
+
+
+In case kernal is not using venv python
+
+ which -a ipython
+which ipython
+ which jupyter
+
+
+
+pip install ipykernel==4.8.2
+
+ python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+
+
+
+in python console check version:
+
+// python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+
+// python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+
+import sys
+import sys.executable
